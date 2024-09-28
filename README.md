@@ -37,11 +37,6 @@ https://ai-image-gen-by-bilal.netlify.app/
 
 ![Home Page](https://user-images.githubusercontent.com/117112672/224544225-c6f79f39-d51c-41e0-acce-fb9c2fdd01a6.jpg)
 
-
-* Community Showcase
-
-![Community Showcase](https://user-images.githubusercontent.com/117112672/224544277-9ba5308d-4d80-4038-b778-8b36a8347611.jpg)
-
 * Search Functionality
 
 ![Search Functionality](https://user-images.githubusercontent.com/117112672/224544308-832a0c99-f516-4cce-a452-be6680fa0922.jpg)
